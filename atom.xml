@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>子俊の博客</title>
+  
+  <subtitle>超逸の博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wzjhub.top/"/>
+  <updated>2020-05-17T15:38:37.000Z</updated>
+  <id>https://wzjhub.top/</id>
+  
+  <author>
+    <name>Wu ZiJun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wzjhub.top/posts/520520/"/>
+    <id>https://wzjhub.top/posts/520520/</id>
+    <published>2020-07-09T08:01:26.241Z</published>
+    <updated>2020-05-17T15:38:37.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://wzjhub.top/categories/blog/"/>
+    
+    
+      <category term="总结" scheme="https://wzjhub.top/tags/%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="blog" scheme="https://wzjhub.top/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
